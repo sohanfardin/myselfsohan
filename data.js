@@ -116,6 +116,7 @@ export const systemData = {
                 "Goal": { en: "Profit Opt.", bn: "লাভ অপ্টিমাইজেশন" }
             },
             document: "krishios.pdf",
+            link: "https://sohanfardin.github.io/krishios",
             details: { en: "The platform enables farmers to log costs, sales, and yield data and generates real-time financial insights like automated profit calculation. It integrates IoT-based data collection (soil, weather) and AI-driven analysis to provide smart recommendations for crop planning, productivity optimization, and cost efficiency. The system aims to make data-driven farming accessible to rural farmers through a simple, local-language-friendly interface.", bn: "প্ল্যাটফর্মটি কৃষকদের খরচ, বিক্রয় এবং উৎপাদনের ডেটা লগ করতে সক্ষম করে এবং স্বয়ংক্রিয় লাভ গণনার মতো রিয়েল-টাইম আর্থিক অন্তর্দৃষ্টি তৈরি করে। এটি আইওটি-ভিত্তিক ডেটা সংগ্রহ (মাটি, আবহাওয়া) এবং এআই-চালিত বিশ্লেষণকে একীভূত করে ফসল পরিকল্পনা, উৎপাদনশীলতা অপ্টিমাইজেশন এবং খরচ দক্ষতার জন্য স্মার্ট সুপারিশ প্রদান করে। সিস্টেমটির লক্ষ্য সহজ, স্থানীয় ভাষার ইন্টারফেসের মাধ্যমে গ্রামীণ কৃষকদের কাছে ডেটা-চালিত কৃষি অ্যাক্সেসযোগ্য করা।" }
         }
     ],
