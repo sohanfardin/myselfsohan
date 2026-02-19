@@ -109,7 +109,7 @@ export const systemData = {
             icon: "🌾",
             tagline: { en: "AI Smart Agriculture Platform", bn: "এআই স্মার্ট কৃষি প্ল্যাটফর্ম" },
             description: { en: "Designing and developing a farmer-focused intelligent web application that digitizes agricultural management through expense tracking, production monitoring, and automated profit calculation.", bn: "কৃষকদের জন্য একটি বুদ্ধিমান ওয়েব অ্যাপ্লিকেশন ডিজাইন এবং ডেভেলপ করা যা ব্যয় ট্র্যাকিং, উৎপাদন পর্যবেক্ষণ এবং স্বয়ংক্রিয় লাভ গণনার মাধ্যমে কৃষি ব্যবস্থাপনাকে ডিজিটালাইজ করে।" },
-            tech: ["Next.js", "Node.js", "Tailwind CSS", "MongoDB", "AI/ML", "IoT"],
+            tech: ["Next.js", "Node.js", "Tailwind CSS", "Supabase", "AI/ML", "IoT"],
             stats: {
                 "Users": { en: "Farmers", bn: "কৃষক" },
                 "Feature": { en: "IoT Integrated", bn: "আইওটি ইন্টিগ্রেটেড" },
