@@ -1,6 +1,6 @@
 # 🖥️ SohanOS v1.0 | Engineering Brain
 
-[![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=rocket)](https://sohanfardin.github.io/)
+[![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=rocket)](https://sohanfardin.github.io/myselfsohan/)
 [![Tech](https://img.shields.io/badge/Stack-Vanilla_JS_|_Tailwind_|_Three.js-blue?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
 
